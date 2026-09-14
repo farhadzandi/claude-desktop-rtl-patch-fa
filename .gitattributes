@@ -1,0 +1,2 @@
+# Preserve the release manifest's LF byte representation on every platform.
+* text eol=lf
