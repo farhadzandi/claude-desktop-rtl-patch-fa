@@ -1,0 +1,14 @@
+Derivative-work notice
+
+This repository contains software derived from:
+https://github.com/shraga100/claude-desktop-rtl-patch
+
+Original project copyright:
+Copyright (c) 2026 shraga100
+
+The original project is licensed under the MIT License. The full original copyright and permission
+notice is retained in LICENSE.
+
+Persian/security-hardening modifications in this repository are distributed under the same MIT terms.
+
+This project is independently maintained and is not affiliated with Anthropic.
